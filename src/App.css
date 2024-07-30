@@ -37,8 +37,9 @@ body {
 }
 textarea {
   background-color: #222;
-  min-height: 1.2em;
-  height: 1.2em;
+  font-family: "Quicksand", sans-serif;
+  min-height: 1.3em;
+  height: 1.3em;
   font-size: 2em;
   border-radius: 5px;
   margin-left: 10px;
