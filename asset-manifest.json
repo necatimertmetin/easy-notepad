@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/easy-notepad/static/css/main.319a9054.css",
+    "main.js": "/easy-notepad/static/js/main.892b659a.js",
+    "static/js/453.aa935be9.chunk.js": "/easy-notepad/static/js/453.aa935be9.chunk.js",
+    "static/media/activeStar.png": "/easy-notepad/static/media/activeStar.8161f7e8932cff6d40c9.png",
+    "static/media/star.png": "/easy-notepad/static/media/star.28569ee5ee370256f002.png",
+    "static/media/edit.png": "/easy-notepad/static/media/edit.7024432c349d1b0d4e41.png",
+    "index.html": "/easy-notepad/index.html",
+    "main.319a9054.css.map": "/easy-notepad/static/css/main.319a9054.css.map",
+    "main.892b659a.js.map": "/easy-notepad/static/js/main.892b659a.js.map",
+    "453.aa935be9.chunk.js.map": "/easy-notepad/static/js/453.aa935be9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.319a9054.css",
+    "static/js/main.892b659a.js"
+  ]
+}
